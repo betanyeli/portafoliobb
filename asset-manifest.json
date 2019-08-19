@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portafoliobb/static/css/main.0539382c.chunk.css",
-    "main.js": "/portafoliobb/static/js/main.5ab01362.chunk.js",
-    "main.js.map": "/portafoliobb/static/js/main.5ab01362.chunk.js.map",
+    "main.css": "/portafoliobb/static/css/main.4b25f37a.chunk.css",
+    "main.js": "/portafoliobb/static/js/main.277c28eb.chunk.js",
+    "main.js.map": "/portafoliobb/static/js/main.277c28eb.chunk.js.map",
     "runtime~main.js": "/portafoliobb/static/js/runtime~main.4b1f33b1.js",
     "runtime~main.js.map": "/portafoliobb/static/js/runtime~main.4b1f33b1.js.map",
     "static/js/2.b41502e9.chunk.js": "/portafoliobb/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/portafoliobb/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/portafoliobb/index.html",
-    "precache-manifest.191b2062dfd05d028c63c4264b8e2759.js": "/portafoliobb/precache-manifest.191b2062dfd05d028c63c4264b8e2759.js",
+    "precache-manifest.6a87601b9bcdf1bdd27605d8a7ad8c21.js": "/portafoliobb/precache-manifest.6a87601b9bcdf1bdd27605d8a7ad8c21.js",
     "service-worker.js": "/portafoliobb/service-worker.js",
-    "static/css/main.0539382c.chunk.css.map": "/portafoliobb/static/css/main.0539382c.chunk.css.map",
+    "static/css/main.4b25f37a.chunk.css.map": "/portafoliobb/static/css/main.4b25f37a.chunk.css.map",
     "static/media/beta.jpg": "/portafoliobb/static/media/beta.b44d7433.jpg"
   }
 }
