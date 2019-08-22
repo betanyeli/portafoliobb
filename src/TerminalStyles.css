@@ -1,0 +1,25 @@
+/*Terminal Container Styles*/
+.container-terminal{
+    background-color: blue;
+    border-style: solid;
+    width: 100%;
+    height: 500px;
+    
+}
+
+.header-terminal{
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    background-color: aqua;
+    font: 10px "Courier new", courier, monospace; 
+}
+.node{
+    justify-items: flex-start;
+}
+/* span{
+    align-items: flex-end;
+} */
+/* .windows{
+    justify-content: flex-end;
+} */
