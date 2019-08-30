@@ -1,16 +1,30 @@
 *{
     margin: 0;
     padding: 0;
-}
-body{
-    border-style: solid;
-    min-height: 100vh;
-    /* background: linear-gradient(135deg, #dd5e89, #f7bb97); */
-    color: white;
-    line-height: 1.5;
-    background: #9796f0;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    
 }
 
+a{
+    color:#000;
+	text-decoration: none;
+	
+  } 
+
+  @media only screen and (max-width: 600px) {
+	a {
+	  font-size: 10px;
+	}
+  }
+
+  .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+	border-top-right-radius: .25rem;
+  background: #E8D5D5;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
+	border-color: rgba(199, 134, 134, 0.5);
+	background: rgba(248, 152, 227, 0.24)
+}

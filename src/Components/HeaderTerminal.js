@@ -1,28 +1,19 @@
-import React from 'react';
+import React from 'react'
+import Typewriter from 'typewriter-effect';
 import '../TerminalStyles.css';
 
-class HeaderTerminal extends React.Component {
-    render() {
-        return (
+const HeaderTerminal = () =>{
+    return(
+        <div className="header-terminal">
+        <Typewriter
+        options={{
+          strings: ['¿Necesitas una Front End Developer?', 'Bienvenidx a mi Portafolio <3','Need a Front End Developer?', 'Welcome to my portfolio'],
+          autoStart: true,
+          loop: true,
+        }}
+      />
+      </div>
+    )
 
-            <div className="header-terminal">
-
-                <p className="node">Betanyeli Bravo</p>
-                {/* <div className="windows">
-                    <span><i className="fas fa-window-minimize"></i></span>
-                    <span><i className="far fa-window-maximize"></i></span>
-                    <span><i className="fas fa-window-close"></i></span>
-
-                </div> */}
-
-
-
-
-
-            </div>
-
-        )
-    }
 }
-
 export default HeaderTerminal;
