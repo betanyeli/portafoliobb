@@ -28,3 +28,8 @@ a{
 	border-color: rgba(199, 134, 134, 0.5);
 	background: rgba(248, 152, 227, 0.24)
 }
+
+.nav-justified .nav-item {
+
+  text-align: start;
+}

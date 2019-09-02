@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import '../TerminalStyles.css'
+import '../PhotoProfile.css'
 import ThisIsMe from '../ThisIsMe.json'
 import { Container, Row, Col } from 'react-bootstrap'
 import NodeComponent from './NodeComponent'
