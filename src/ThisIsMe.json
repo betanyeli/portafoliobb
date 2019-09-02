@@ -16,6 +16,11 @@
         "description":"Réplica de pinterest en React Js",
         "img":"https://png.pngtree.com/png-clipart/20190516/original/pngtree-pinterest-color-icon-png-image_3547786.jpg",
         "url": "https://jobapp-pin.firebaseapp.com/"
+    },
+    "PopCornMovie":{
+        "description":"Web App, con API de OMDB. Desarrollada en JavaScript, Api Rest.",
+        "img":"https://raw.githubusercontent.com/betanyeli/SCL009-hackathon-peliculas/master/src/img/logo.png",
+        "url": "https://efyguevara.github.io/SCL009-hackathon-peliculas/src/index.html"
     }
 
 }

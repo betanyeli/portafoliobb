@@ -23,7 +23,9 @@
 b{
   font-size: 20px;
 }
-/* i {
+
+
+i{
   background:
      linear-gradient(
        to right,
@@ -36,9 +38,9 @@ b{
   color: #000;
   padding-left: 10px;
   text-decoration: none;
-} */
+} 
 
-/* i:hover {
+ i:hover {
   background:
      linear-gradient(
        to right,
@@ -46,7 +48,7 @@ b{
        var(--mainColor) 5px,
        transparent
      );
-} */
+} 
 
 /*media  queries*/
 /*mobile*/

@@ -88,7 +88,18 @@ function NodeTerminal() {
                     <a href={me.Pinterest.url} className="info">Ver Más</a>
                   </div>
                 </div>
+                <div className="view view-tenth">
+                  <img src={me.PopCornMovie.img} />
+                  <div className="mask">
+                    <h2>PopCornMovie</h2>
+                    <p>{me.PopCornMovie.description}</p>
+                    <a href={me.PopCornMovie.url} className="info">Ver Más</a>
+                  </div>
+                </div>
               </div>
+
+
+              
 
                 
               
