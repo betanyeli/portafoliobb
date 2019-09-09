@@ -27,14 +27,14 @@ function NodeTerminal() {
                 <p><b>N</b>ODE, <i>Firebase y Git</i></p>
                 <p><b>Y</b> <i>Bootstrap con FlexBox Grid,</i></p>
                 <p><b>E</b>gresada de </p>
-                <p><b>Laboratoria</b></p>
+                <p><b>L</b><a className="laboratoria" href="https://app.talento.laboratoria.la/profile/H7yFYqWhtwcIFwkIMwwRIQik2jd2">aboratoria</a></p>
                 <p><b>I</b>mpulsando a un mundo feliz</p>
               </div>
             </Col>
             <Col xs={12} md={6}>
               <div className="acronym">
                 <p><b>B</b>usco nuevos desafíos,</p>
-                <p><b>R</b>elacionados con mis Tech Skills,</p>
+                <p><b>R</b>elacionados con mis <i>Tech Skills,</i></p>
                 <p><b>A</b>utodidacta al 100%, responsable y TeamWorking,</p>
                 <p><b>V</b>isionaria y</p>
                 <p><b>O</b>rganizada, Conóceme, estoy aquí!</p>
@@ -57,14 +57,15 @@ function NodeTerminal() {
 
 
       </Tab>
-      <Tab eventKey="skills" title="💻Node:/c/users/Skills&&Projects">
+      <Tab eventKey="skills" title="💻Node:/c/users/Projects">
         <Container>
           <Row>
             <Col xs={12}>
               <div className="all">
               <div className="view view-tenth">
-                  <img src={me.mdlinks.img} />
+              <img src={me.mdlinks.img} />
                   <div className="mask">
+                  
                     <h2>BB-MDLinks</h2>
                     <p>{me.mdlinks.description}</p>
                     <a href={me.mdlinks.url} className="info">Ver Más</a>
@@ -72,7 +73,7 @@ function NodeTerminal() {
                 </div>
 
                 <div className="view view-tenth">
-                  <img src={me.NoMoreCommunity.img} />
+                  <img src={me.NoMoreCommunity.img} alt=""/>
                   <div className="mask">
                     <h2>NoMoreCommunity</h2>
                     <p>{me.NoMoreCommunity.description}</p>
@@ -81,7 +82,7 @@ function NodeTerminal() {
                 </div>
 
                 <div className="view view-tenth">
-                  <img src={me.Pinterest.img} />
+                  <img src={me.Pinterest.img} alt=""/>
                   <div className="mask">
                     <h2>Pinterest</h2>
                     <p>{me.Pinterest.description}</p>
@@ -89,7 +90,7 @@ function NodeTerminal() {
                   </div>
                 </div>
                 <div className="view view-tenth">
-                  <img src={me.PopCornMovie.img} />
+                  <img src={me.PopCornMovie.img} alt=""/>
                   <div className="mask">
                     <h2>PopCornMovie</h2>
                     <p>{me.PopCornMovie.description}</p>

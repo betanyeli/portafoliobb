@@ -1,6 +1,6 @@
 {
     "name": "Betanyeli",
-    "profile": "https://i.ibb.co/D1Y87vM/port.jpg",
+    "profile": "https://i.ibb.co/rshxrgJ/Whats-App-Image-2019-09-09-at-11-54-17.jpg",
 
     "mdlinks":{
         "description":"Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
@@ -14,7 +14,7 @@
     },
     "Pinterest":{
         "description":"Réplica de pinterest en React Js",
-        "img":"https://png.pngtree.com/png-clipart/20190516/original/pngtree-pinterest-color-icon-png-image_3547786.jpg",
+        "img":"https://icon-icons.com/icons2/114/PNG/256/pinterest_19134.png",
         "url": "https://jobapp-pin.firebaseapp.com/"
     },
     "PopCornMovie":{

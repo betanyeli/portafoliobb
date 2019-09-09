@@ -18,7 +18,7 @@ h1 {
   .view {
     margin: 10px;
     float: left;
-    border: 10px solid rgba(199, 134, 134, 0.5);
+    border: 5px solid rgba(199, 134, 134, 0.5);
     overflow: hidden;
     position: relative;
     text-align: center;
@@ -135,3 +135,27 @@ h1 {
     transform: scale(1);
     opacity: 1;
   }
+
+  /*media  queries*/
+/*mobile*/
+@media only screen and (max-width: 600px) {
+  .view .mask,
+  .view .content {
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+
+
+  }
+
+  .view img {
+    display: block;
+    position: relative;
+    width: 150px;
+    height: 100px;
+  }
+  
+}

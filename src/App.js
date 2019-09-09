@@ -1,6 +1,5 @@
 import React from 'react';
-import './App.css';
-//import NodeComponent from './Components/NodeComponent'
+
 import HeaderTerminal from './Components/HeaderTerminal'
 import Description from './Components/Description'
 import './TerminalStyles.css';
