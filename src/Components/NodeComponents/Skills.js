@@ -3,6 +3,7 @@ import React from 'react'
 const Skills = ()=>{
     return (
         <React.Fragment>
+            <h2>Skills</h2>
             <a href="#"><img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" className="skill" alt="HTML logo"></img></a>
               <a href="#"><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" className="skill" alt="CSS logo"></img></a>
               <a href="#"><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" className="skill" alt="Javascript logo"></img></a>
