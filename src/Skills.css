@@ -1,4 +1,4 @@
-
+/* projects */
 h1 {
     color: white;
     padding-left: 10px;
@@ -162,6 +162,41 @@ h1 {
     max-height: 100px; */
   }
 
-
+.skill{
+  height: 70px;
+  width: 50px;
+  padding: 5px;
+  margin: 5px 5px;
+}
 
 }  
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.skill {
+  height: 120px;
+  width: 100px;
+  padding: 15px;
+  margin: 5px 10px;
+  -webkit-transition: transform 0.8s;
+  -moz-transition: transform 0.8s;
+  -o-transition: transform 0.8s;
+  transition: transform 0.8s;
+}
+
+.skill:hover {
+  cursor: pointer;
+
+  -webkit-transform: scale(1.15, 1.15);
+  -ms-transform: scale(1.15, 1.15);
+  -o-transform: scale(1.15, 1.15);
+  transform: scale(1.15, 1.15);
+}
+

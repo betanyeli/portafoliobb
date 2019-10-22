@@ -6,50 +6,35 @@
 .header-terminal{
     display: flex;
     justify-content: center;
-    margin: 5px;
+    /* margin: 5px; */
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     color: black;
     background:#E8D5D5;
 
 }
-.acronym{
-  font-family: 'Courier New', Courier, monospace;
-  display: flex;
-  flex-direction: column;
-  margin: 5px;
+
+
+/* img profile*/
+.img-profile{
+  height: 200px;
+  width: 70%;
+  border-radius: 10px;
 }
 
-b{
-  font-size: 20px;
+/* description*/
+.description{
+  height: 200px;
+  width: 70%;
+  border-radius: 10px;
 }
 
-
-i{
-  background:
-     linear-gradient(
-       to right,
-       var(--mainColor) 0%,
-       var(--mainColor) 1px,
-       transparent 5px
-     );
-    background-repeat: repeat-x;
-    background-size: 100%;
-  color: #000;
-  padding-left: 10px;
-  text-decoration: none;
-} 
-
- i:hover {
-  background:
-     linear-gradient(
-       to right,
-       var(--mainColor) 0%,
-       var(--mainColor) 5px,
-       transparent
-     );
-} 
-
+/*footer */
+.footer{
+background: pink;
+display: flex;
+justify-content: center;
+}
 /*media  queries*/
 /*mobile*/
 @media only screen and (max-width: 600px) {

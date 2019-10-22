@@ -1,6 +1,6 @@
 {
     "name": "Betanyeli",
-    "profile": "https://i.ibb.co/rshxrgJ/Whats-App-Image-2019-09-09-at-11-54-17.jpg",
+    "profile": "https://i.ibb.co/0qHQxWY/beta.jpg",
 
     "mdlinks":{
         "description":"Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
@@ -21,6 +21,29 @@
         "description":"Web App, con API de OMDB. Desarrollada en JavaScript, Api Rest.",
         "img":"https://raw.githubusercontent.com/betanyeli/SCL009-hackathon-peliculas/master/src/img/logo.png",
         "url": "https://efyguevara.github.io/SCL009-hackathon-peliculas/src/index.html"
+    },
+
+    "BurgerQueen":{
+        "description":"Web App de pedidos de restaurant. ReactJs, Firebase.",
+        "img":"https://burger-queen-labs.firebaseapp.com/static/media/logoBurgerMenu.27855d29.JPG",
+        "url": "https://burger-queen-labs.firebaseapp.com/"
+    },
+
+    "MeMuevo":{
+        "description":"Propuesta de implementación. ReactJs, Firebase.",
+        "img":"https://nohestmm.github.io/SCL009-Me-Muevo.cl/static/media/logo.04913cac.png",
+        "url": "https://nohestmm.github.io/SCL009-Me-Muevo.cl/"
+    },
+
+    "WinnerLegends":{
+        "description":"Web App alusiva a LoL. JavaScript, HTML5, CSS3.",
+        "img":"https://betanyeli.github.io/SCL009-data-lovers/src/img/Presentaci%C3%B3n1.png",
+        "url": "https://betanyeli.github.io/SCL009-data-lovers/src/index.html#"
+    },
+    "CasanovaLabs":{
+        "description":"Web App que cifra/descrifra resultados. Js, HTML5, CSS3.",
+        "img":"https://betanyeli.github.io/SCL009-Cipher/src/img/daniu.PNG",
+        "url": "https://betanyeli.github.io/SCL009-Cipher/src/index.html"
     }
 
 }
