@@ -1,21 +1,20 @@
 {
-    "name": "Betanyeli",
-    "profile": "https://i.ibb.co/D1Y87vM/port.jpg",
+  "name": "Betanyeli",
+  "profile": "https://betanyeli-images.s3.amazonaws.com/WhatsApp+Image+2022-12-13+at+21.19.33.jpeg",
 
-    "mdlinks":{
-        "description":"Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
-        "img":"https://raw.githubusercontent.com/betanyeli/BB-MdLinks/master/img/logo.JPG",
-        "url": "https://www.npmjs.com/package/bb-mdlinks"
-    },
-    "NoMoreCommunity":{
-        "description":"Red Social para víctimas de violencia, Desarrollada en JavaScript, Firebase.",
-        "img":"https://raw.githubusercontent.com/betanyeli/SCL009-Social-Network/master/src/assets/img/logo.png",
-        "url": "https://nohestmm.github.io/SCL009-Social-Network/src/index.html#"
-    },
-    "Pinterest":{
-        "description":"Réplica de pinterest en React Js",
-        "img":"https://png.pngtree.com/png-clipart/20190516/original/pngtree-pinterest-color-icon-png-image_3547786.jpg",
-        "url": "https://jobapp-pin.firebaseapp.com/"
-    }
-
+  "mdlinks": {
+    "description": "Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
+    "img": "https://raw.githubusercontent.com/betanyeli/BB-MdLinks/master/img/logo.JPG",
+    "url": "https://www.npmjs.com/package/bb-mdlinks"
+  },
+  "NoMoreCommunity": {
+    "description": "Red Social para víctimas de violencia, Desarrollada en JavaScript, Firebase.",
+    "img": "https://raw.githubusercontent.com/betanyeli/SCL009-Social-Network/master/src/assets/img/logo.png",
+    "url": "https://nohestmm.github.io/SCL009-Social-Network/src/index.html#"
+  },
+  "Pinterest": {
+    "description": "Réplica de pinterest en React Js",
+    "img": "https://png.pngtree.com/png-clipart/20190516/original/pngtree-pinterest-color-icon-png-image_3547786.jpg",
+    "url": "https://jobapp-pin.firebaseapp.com/"
+  }
 }
