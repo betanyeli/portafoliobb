@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "../TerminalStyles.css";
 import "../PhotoProfile.css";
 import ThisIsMe from "../ThisIsMe.json";

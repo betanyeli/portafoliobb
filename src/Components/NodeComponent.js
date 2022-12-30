@@ -4,13 +4,10 @@ import Tabs from "react-bootstrap/Tabs";
 import "../TerminalStyles.css";
 import "../Contact.css";
 import "../Skills.css";
-import ThisIsMe from "../ThisIsMe.json";
 import { Container, Row, Col } from "react-bootstrap";
-import Skills from "./Skills";
 
 function NodeTerminal() {
   const [key, setKey] = useState("home");
-  const [me] = useState(ThisIsMe);
 
   const aboutMe = (
     <>
@@ -106,7 +103,11 @@ function NodeTerminal() {
         <Container>
           <Row>
             <Col xs={12}>
-              <Skills />
+              <em>Disclaimer!!</em>
+              <p>
+                That was my first portfolio, after ends the web develoment
+                bootcamp n.n{" "}
+              </p>
             </Col>
           </Row>
         </Container>

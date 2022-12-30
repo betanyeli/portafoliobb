@@ -7,7 +7,7 @@ const HeaderTerminal = () => {
     <div className="header-terminal">
       <Typewriter
         options={{
-          strings: ["React Native Developer"],
+          strings: ["Disclaimer! this portfolio was deprecated in 2019 uwu"],
           autoStart: true,
           loop: true,
         }}
