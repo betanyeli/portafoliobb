@@ -1,26 +1,25 @@
 {
-    "name": "Betanyeli",
-    "profile": "https://i.ibb.co/rshxrgJ/Whats-App-Image-2019-09-09-at-11-54-17.jpg",
+  "name": "Betanyeli",
+  "profile": "https://betanyeli-images.s3.amazonaws.com/WhatsApp+Image+2022-12-13+at+21.19.33.jpeg",
 
-    "mdlinks":{
-        "description":"Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
-        "img":"https://raw.githubusercontent.com/betanyeli/BB-MdLinks/master/img/logo.JPG",
-        "url": "https://www.npmjs.com/package/bb-mdlinks"
-    },
-    "NoMoreCommunity":{
-        "description":"Red Social para víctimas de violencia, Desarrollada en JavaScript, Firebase.",
-        "img":"https://raw.githubusercontent.com/betanyeli/SCL009-Social-Network/master/src/assets/img/logo.png",
-        "url": "https://nohestmm.github.io/SCL009-Social-Network/src/index.html#"
-    },
-    "Pinterest":{
-        "description":"Réplica de pinterest en React Js",
-        "img":"https://icon-icons.com/icons2/114/PNG/256/pinterest_19134.png",
-        "url": "https://jobapp-pin.firebaseapp.com/"
-    },
-    "PopCornMovie":{
-        "description":"Web App, con API de OMDB. Desarrollada en JavaScript, Api Rest.",
-        "img":"https://raw.githubusercontent.com/betanyeli/SCL009-hackathon-peliculas/master/src/img/logo.png",
-        "url": "https://efyguevara.github.io/SCL009-hackathon-peliculas/src/index.html"
-    }
-
+  "mdlinks": {
+    "description": "Librería para NodeJs, extrae links de archivos .md. Desarrollada en JavaScript.",
+    "img": "https://raw.githubusercontent.com/betanyeli/BB-MdLinks/master/img/logo.JPG",
+    "url": "https://www.npmjs.com/package/bb-mdlinks"
+  },
+  "NoMoreCommunity": {
+    "description": "Red Social para víctimas de violencia, Desarrollada en JavaScript, Firebase.",
+    "img": "https://raw.githubusercontent.com/betanyeli/SCL009-Social-Network/master/src/assets/img/logo.png",
+    "url": "https://nohestmm.github.io/SCL009-Social-Network/src/index.html#"
+  },
+  "Pinterest": {
+    "description": "Réplica de pinterest en React Js",
+    "img": "https://icon-icons.com/icons2/114/PNG/256/pinterest_19134.png",
+    "url": "https://jobapp-pin.firebaseapp.com/"
+  },
+  "PopCornMovie": {
+    "description": "Web App, con API de OMDB. Desarrollada en JavaScript, Api Rest.",
+    "img": "https://raw.githubusercontent.com/betanyeli/SCL009-hackathon-peliculas/master/src/img/logo.png",
+    "url": "https://efyguevara.github.io/SCL009-hackathon-peliculas/src/index.html"
+  }
 }
